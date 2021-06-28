@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Kuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuu44?count_private=true)](https://kuu44.github.io)
+<!--
+[![Kuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuu44&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&bg_color=-30,000000,14213d,14213d)](https://kuu44.github.io)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight&bg_color=-30,14213d,000000,000000)](https://kuu44.github.io)
+-->
+<a href="https://kuu44.github.io">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Kuu44&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&bg_color=-30,000000,14213d,14213d" />
+</a>
+<a href="https://kuu44.github.io">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight&bg_color=-30,14213d,000000,000000" />
+</a>
