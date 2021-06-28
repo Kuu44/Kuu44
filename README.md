@@ -12,5 +12,5 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Kuu44&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&bg_color=-30,000000,14213d,14213d" />
 </a>
 <a href="https://kuu44.github.io">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight&bg_color=-30,14213d,000000,000000" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuu44&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight&bg_color=-30,14213d,000000,000000" />
 </a>
