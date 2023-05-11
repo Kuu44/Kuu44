@@ -2,8 +2,8 @@
 
 ## I'm Kuu!
 
-- 🔭 I’m currently working on _surviving_ College 😬
-- 🌱 I’m currently studying Bachelors in Computer Technology, at [Pulchowk Campus](https://pcampus.edu.np/)
+- 🔭 I’m currently working on _designing and building_ Games using Unity 🎮
+- 🌱 I just graduated with a Bachelors in Computer Technology, at [Pulchowk Campus](https://pcampus.edu.np/)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kuu44/"><img align="middle" src="https://logodix.com/logo/79650.png" width=25px /></a>
 <a href="mailto:kushal-shrestha@hotmail.com"><img align="middle" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" width=25px /></a>
 <a href="https://discordapp.com/users/421499713880326155/"><img align="middle" src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" width=25px /></a>
